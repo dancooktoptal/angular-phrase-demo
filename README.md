@@ -1,5 +1,7 @@
-# blogpost-angular-multilingual
-This repository contains a multilingual angular application using material design.
+# Bog Post - Multilingual project with angular and material desgin
+This project was written by Kevin M. to demonstrate a multilingual angular application. You can read the full post - unfortunately only in german - here:
+
+[<img src="https://www.lise.de/fileadmin/user_upload/lise_logo_freigestellt.png" height="20" />-Blog: Angular Material und Mehrsprachigkeit - ein umfassendes How-to](https://www.lise.de/blog/article/angular-material-und-mehrsprachigkeit-ein-umfassendes-how-to/)
 
 # Angular2MultilingualMaterialistic2
 
