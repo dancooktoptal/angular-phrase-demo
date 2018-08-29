@@ -1,0 +1,13 @@
+{
+    "INFO": "Ich bin nur eine Infoleiste",
+
+    "WELCOME_MSG": "Willkommen auf deiner ersten mehrsprachigen Angular2-App.",
+    "PAGE_TWO_CONTENT": "Du bist zu Punkt 2 navigiert.",
+    "PAGE_THREE_CONTENT": "Jetzt bist du zu Punkt 3 navigiert.",
+
+    "NAVIGATION": {
+        "ONE": "Punkt 1",
+        "TWO": "Punkt 2",
+        "THREE": "Punkt 3"
+    }
+}

@@ -1,0 +1,7 @@
+<app-header></app-header>
+<main [@routerTransition]="getState(outlet)" class="fill-remaining-space mat-body-1">
+    <router-outlet #outlet="outlet"></router-outlet>
+</main>
+<mat-toolbar class="mat-elevation-z8">
+    <span class="mat-caption">{{ "INFO" | translate }}</span>
+</mat-toolbar>
