@@ -1,5 +1,7 @@
+> :warning: **Unmaintained blog post example**: This repository contains code examples for on of our blog posts. We do not maintain or update this repository.
+
 # Blog Post - Multilingual project with angular and material desgin
-This project was written by Kevin M. to demonstrate a multilingual angular application. You can read the full post - unfortunately only in german - here:
+This project was written by Kevin M. to demonstrate a multilingual angular application. You can read the full post - unfortunately it is only available in german - here:
 
 [<img src="https://www.lise.de/fileadmin/user_upload/lise_logo_freigestellt.png" height="20" />-Blog: Angular Material und Mehrsprachigkeit - ein umfassendes How-to](https://www.lise.de/blog/article/angular-material-und-mehrsprachigkeit-ein-umfassendes-how-to/)
 
