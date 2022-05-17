@@ -1,0 +1,14 @@
+{
+  "INFO": "I'm just an Infobar.",
+  "NAVIGATION": {
+    "FIFTH": "5th item",
+    "FOURTH": "4th item",
+    "ONE": {
+      "one": "1st item"
+    },
+    "THREE": "3rd item"
+  },
+  "PAGE_THREE_CONTENT": "Now you clicked menu item number three.",
+  "PAGE_TWO_CONTENT": "You clicked on menu item number two.",
+  "WELCOME_MSG": "Welcome to your first multilingual Angular2 app."
+}
