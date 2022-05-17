@@ -4,7 +4,7 @@ phrase:
   file_format: "simple_json"
   push:
     sources:
-      - file: src\assets\translation\en.json
+      - file: src\assets\translation\en-GB.json
         params:
           file_format: simple_json
   pull:
