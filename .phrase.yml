@@ -12,3 +12,9 @@ phrase:
       - file: src\assets\translation\<locale_name>.json
         params:
           file_format: simple_json
+      - file: backend\<locale_name>.json
+        params:
+          file_format: resx
+      - file: ios\<locale_name>.json
+        params:
+          file_format: strings
