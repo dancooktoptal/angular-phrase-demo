@@ -3,7 +3,7 @@ phrase:
   project_id: 38ca130914e1d95090bdb416f14bcadc
   push:
     sources:
-      - file: src\assets\translation\en-GB.json
+      - file: src\assets\translation\en.json
         params:
           file_format: nested_json
   pull:
