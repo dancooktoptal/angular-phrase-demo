@@ -1,13 +1,3 @@
 {
-  "INFO": "I'm just an Infobar.",
-  "WELCOME_MSG": "Welcome to your first multilingual Angular2 app.",
-  "PAGE_TWO_CONTENT": "You clicked on menu item number two.",
-  "PAGE_THREE_CONTENT": "Now you clicked menu item number three.",
-  "NAVIGATION": {
-    "FIRST": "1st item",
-    "SECOND": "2nd item",
-    "THIRD": "3rd item",
-    "FOURTH": "4th item",
-    "FIFTH": "5th item"
-  }
+  "Advertising": "Advertising"
 }
