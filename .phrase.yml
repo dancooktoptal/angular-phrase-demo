@@ -1,0 +1,13 @@
+phrase:
+  access_token: 59b23eefdebcd0042cf061ae9d57b9d8a82f480a9f02e021256fcb8b59429a24
+  project_id: 38ca130914e1d95090bdb416f14bcadc
+  push:
+    sources:
+      - file: src\assets\translation\master.json
+        params:
+          file_format: nested_json
+  pull:
+    targets:
+      - file: src\assets\translation\<locale_name>.json
+        params:
+          file_format: nested_json
