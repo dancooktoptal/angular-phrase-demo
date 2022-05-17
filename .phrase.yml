@@ -8,6 +8,7 @@ phrase:
         params:
           locale_id: bff1381928b3cbb2b86fc20a1e7a3d18
           file_format: simple_json
+          update_translations: true
   pull:
     targets:
       - file: src\assets\translation\<locale_name>.json
