@@ -6,7 +6,7 @@ phrase:
     sources:
       - file: src\assets\translation\en-GB.json
         params:
-          locale_id: en-GB,
+          locale_id: bff1381928b3cbb2b86fc20a1e7a3d18,
           file_format: simple_json
   pull:
     targets:
